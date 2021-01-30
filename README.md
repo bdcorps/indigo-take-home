@@ -1,5 +1,7 @@
 # indigo-take-home
 
+![alt text](./screenshots/web1.PNG?raw=true)
+
 A take home assignment for Front End by Indigo.
 
 ## Features
